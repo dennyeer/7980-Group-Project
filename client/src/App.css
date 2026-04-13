@@ -1,0 +1,18 @@
+.auth-page {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+}
+
+.auth-card {
+  border-radius: 12px;
+}
+
+.page-wrap {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.checkin-card {
+  border-radius: 12px;
+}
